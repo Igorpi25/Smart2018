@@ -9,9 +9,9 @@
 
 			foreach ($messages as $message) {
 				if ($message['name'] == 'Jane') {
-					echo "<div class='message alert alert-info'><?= {$message['text']} ?></div>";
+					echo "<div class='message alert alert-info'>{$message['text']}</div>";
 				} else {
-					echo "<div class='message alert alert-success text-right'><?= {$message['text']} ?></div>";
+					echo "<div class='message alert alert-success text-right'>{$message['text']}</div>";
 				}
 			}
 		?>
