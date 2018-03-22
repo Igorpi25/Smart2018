@@ -5,7 +5,7 @@
 	<div class="container mt-3">
 		<h3 class="mb-4 text-center">Smart forum</h3>
 		<?php
-			$messages = json_decode(file_get_contents('data.json'), true);
+			$messages = json_decode(file_get_contents('data.json'), false);
 
 			foreach ($messages as $message) {
 				if ($message['name'] == 'Jane') {
