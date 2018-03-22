@@ -1,32 +1,32 @@
 [
 	{
-		name: "Igor",
-		text: "Hi!",
-		date: "2018-03-22 18:00:00"
+		"name": "Igor",
+		"text": "Hi!",
+		"date": "2018-03-22 18:00:00"
 	},
 	{
-		name: "Jane",
-		text: "Hi! What is your name?",
-		date: "2018-03-22 18:01:00"
+		"name": "Jane",
+		"text": "Hi! What is your name?",
+		"date": "2018-03-22 18:01:00"
 	},
 	{
-		name: "Igor",
-		text: "My name is Igor",
-		date: "2018-03-22 18:01:45"
+		"name": "Igor",
+		"text": "My name is Igor",
+		"date": "2018-03-22 18:01:45"
 	},
 	{
-		name: "Jane",
-		text: "Good, my name is Jane!",
-		date: "2018-03-22 18:02:53"
+		"name": "Jane",
+		"text": "Good, my name is Jane!",
+		"date": "2018-03-22 18:02:53"
 	},
 	{
-		name: "Jane",
-		text: "Nice to meet you!",
-		date: "2018-03-22 18:03:17"
+		"name": "Jane",
+		"text": "Nice to meet you!",
+		"date": "2018-03-22 18:03:17"
 	},
 	{
-		name: "Igor",
-		text: "Nice to meet you too!",
-		date: "2018-03-22 18:04:25"
+		"name": "Igor",
+		"text": "Nice to meet you too!",
+		"date": "2018-03-22 18:04:25"
 	}
 ]
